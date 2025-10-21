@@ -6,13 +6,13 @@ kanban-plugin: board
 
 ## Pendiente:
 
-- [ ] M1
 - [ ] M2
 - [ ] M3
 
 
 ## En ello:
 
+- [ ] M1
 
 
 ## Listo:
